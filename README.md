@@ -1,2 +1,2 @@
-# Bipolar_factory-Task
+# Bipolar_factory/Task
 Bipolar factory assignment
